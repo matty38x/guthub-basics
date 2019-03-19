@@ -1,0 +1,7 @@
+# exclude the .htaccess file
+.htaccess
+
+# exclyde any psd/ai source
+*.psd
+*.ai
+
